@@ -8,8 +8,6 @@ C:\Users\animo\desktop\api-simpsons\bin\Debug\netcoreapp3.0\api-simpsons.runtime
 C:\Users\animo\desktop\api-simpsons\bin\Debug\netcoreapp3.0\api-simpsons.dll
 C:\Users\animo\desktop\api-simpsons\bin\Debug\netcoreapp3.0\api-simpsons.pdb
 C:\Users\animo\desktop\api-simpsons\obj\Debug\netcoreapp3.0\api-simpsons.csprojAssemblyReference.cache
-C:\Users\animo\desktop\api-simpsons\obj\Debug\netcoreapp3.0\staticwebassets\api-simpsons.StaticWebAssets.Manifest.cache
-C:\Users\animo\desktop\api-simpsons\obj\Debug\netcoreapp3.0\staticwebassets\api-simpsons.StaticWebAssets.xml
 C:\Users\animo\desktop\api-simpsons\obj\Debug\netcoreapp3.0\api-simpsons.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\animo\desktop\api-simpsons\obj\Debug\netcoreapp3.0\api-simpsons.AssemblyInfoInputs.cache
 C:\Users\animo\desktop\api-simpsons\obj\Debug\netcoreapp3.0\api-simpsons.AssemblyInfo.cs
