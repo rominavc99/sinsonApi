@@ -1,7 +1,10 @@
+using System;
+
 namespace api_simpsons.Modules
 {
    public class Character
    {
+       Int64 id;
        string name;
        string secondName;
        string lastName;
@@ -15,8 +18,9 @@ namespace api_simpsons.Modules
 
        public Character(){}
 
-        public Character(string name, string secondName, string lastName, int age, int height, int weight, string occupation, string birthDate, string photo, string description)
+        public Character(Int64 id, string name, string secondName, string lastName, int age, int height, int weight, string occupation, string birthDate, string photo, string description)
         {
+            this.id = id;
             this.name = name;
             this.secondName = secondName;
             this.lastName = lastName;
@@ -29,6 +33,7 @@ namespace api_simpsons.Modules
             this.description = description;
         }
 
+        public Int64 Id {get => id; set => id = value; }
         public string Name { get => name; set => name = value; }
         public string SecondName { get => secondName; set => secondName = value; }
         public string LastName { get => lastName; set => lastName = value; }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\animo\\desktop\\api-simpsons\\api-simpsons.csproj": {}
+    "C:\\Users\\animo\\Desktop\\api-simpsons\\api-simpsons.csproj": {}
   },
   "projects": {
-    "C:\\Users\\animo\\desktop\\api-simpsons\\api-simpsons.csproj": {
+    "C:\\Users\\animo\\Desktop\\api-simpsons\\api-simpsons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\animo\\desktop\\api-simpsons\\api-simpsons.csproj",
+        "projectUniqueName": "C:\\Users\\animo\\Desktop\\api-simpsons\\api-simpsons.csproj",
         "projectName": "api-simpsons",
-        "projectPath": "C:\\Users\\animo\\desktop\\api-simpsons\\api-simpsons.csproj",
+        "projectPath": "C:\\Users\\animo\\Desktop\\api-simpsons\\api-simpsons.csproj",
         "packagesPath": "C:\\Users\\animo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\animo\\desktop\\api-simpsons\\obj\\",
+        "outputPath": "C:\\Users\\animo\\Desktop\\api-simpsons\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -38,6 +38,12 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
